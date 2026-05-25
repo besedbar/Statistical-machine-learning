@@ -37,10 +37,3 @@ The projects cover selected topics in statistical learning, model evaluation, ne
 ## Technologies
 
 `Python` · `Machine Learning` · `Statistical Learning` · `Numerical Computing`
-
----
-
-## Author
-
-**Barbora Besedová**  
-Bioinformatics & Data Science student with a background in Medical Electronics.
